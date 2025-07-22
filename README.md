@@ -4,29 +4,35 @@ a text app to run different animations for that particular text input.
 
 ## Future Work:
 base: 1.1.1
-    error handling for the text box ✔️
-    fixed and strobe video animation ✔️
-    rename Led_scroll to Dot scroll ✔️
-    APP icon ✔️
+-    error handling for the text box ✔️
+-    fixed and strobe video animation ✔️
+-    rename Led_scroll to Dot scroll ✔️
+-    APP icon ✔️
+
 version: 1.2.1
-    Splash Screen ( background: linear-gradient(135deg, #6a11cb 0%, #2575fc 100%) )
-    option to upload any video/image from the phone storage
-    option to select any color (colour wheels for text and background)
+-    Splash Screen ( background: linear-gradient(135deg, #6a11cb 0%, #2575fc 100%) )
+-    option to upload any video/image from the phone storage
+-    option to select any color (colour wheels for text and background)
+
 version: 1.3.1
-    word art options
-    Make proper Led Grid for the LED scroll animation
-    preview option, to view actual animation (easier for colour Selection and font)
+-    word art options
+-    Make proper Led Grid for the LED scroll animation
+-    preview option, to view actual animation (easier for colour Selection and font)
+
 version: 2.1.1
-    visibility feature for the animation options in the display board (based on animation type)
-    saved animation setting for Quick reaction
+-    visibility feature for the animation options in the display board (based on animation type)
+-    saved animation setting for Quick reaction
+
 version: 2.2.1
-    interactive Creative canvas to customize the background
-    a Catalog for the video animations. try directly incorporating the free/paid video websites 
+-    interactive Creative canvas to customize the background
+-    a Catalog for the video animations. try directly incorporating the free/paid video websites 
+
 version: 2.3.1
-    AI video Generators 
-    3D text options (like windows screen saver, or powerpoint screen saver) (give options for cube rotations, ring rotation)
+-    AI video Generators 
+-    3D text options (like windows screen saver, or powerpoint screen saver) (give options for cube rotations, ring rotation)
+
 version: 2.4.1
-    option to download the animation, give support for Mp4 and gif 
+-    option to download the animation, give support for Mp4 and gif 
 
 
 ## Version Conventions
