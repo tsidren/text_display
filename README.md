@@ -1,4 +1,4 @@
-# text_display
+# text_display 1.2.1
 
 a text app to run different animations for that particular text input.
 
